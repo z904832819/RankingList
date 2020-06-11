@@ -1,0 +1,4 @@
+RankingList为项目app
+game_ranking.sql为mysql建表sql
+mysql_connect.py 为连接数据库函数
+测试用例图在目录中，附加题也在目录中
